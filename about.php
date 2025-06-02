@@ -141,7 +141,7 @@
       <ul class="navbar-nav ms-auto">
         <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link active" href="about.php">About</a></li>
-        <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
+        <!-- <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li> -->
         <li class="nav-item"><a class="nav-link" href="faq.php">FAQ</a></li>
         <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
       </ul>
@@ -159,7 +159,7 @@
         <p class="lead mb-4">Delhi's premier center for advanced prostate diagnosis and treatment using cutting-edge MRI fusion biopsy technology.</p>
         <div class="d-flex flex-wrap gap-3">
           <a href="#mission" class="btn btn-primary px-4">Our Mission</a>
-          <a href="#team" class="btn btn-outline-primary px-4">Meet Our Team</a>
+          <!-- <a href="#team" class="btn btn-outline-primary px-4">Meet Our Team</a> -->
         </div>
       </div>
       <div class="col-lg-6 js-fadein">
@@ -245,16 +245,16 @@
     <div class="row g-4 align-items-center">
       <div class="col-lg-5 js-fadein">
         <div class="card border-0 shadow-sm overflow-hidden">
-          <img src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80" alt="Dr. Khritij" class="img-fluid">
+          <img src="https://sgrh.com/assets/img/profile/gab4227.png" alt="Dr. Kshitij" class="img-fluid">
           <div class="card-footer bg-white text-center py-3">
-            <h5 class="mb-0">Dr. Khritij, MS DNB Urology</h5>
+            <h5 class="mb-0">Dr. Kshitij, MS DNB Urology</h5>
             <small class="text-muted">Prostate Cancer Specialist</small>
           </div>
         </div>
       </div>
       <div class="col-lg-7 js-fadein">
-        <h3 class="h4 fw-bold mb-3">About Dr. Khritij</h3>
-        <p>With over 12 years of specialized experience in urological oncology, Dr. Khritij brings expertise from India's premier medical institutions to provide the highest standard of prostate care.</p>
+        <h3 class="h4 fw-bold mb-3">About Dr. Kshitij</h3>
+        <p>With over 12 years of specialized experience in urological oncology, Dr. Kshitij brings expertise from India's premier medical institutions to provide the highest standard of prostate care.</p>
         
         <div class="mb-4">
           <h5 class="fw-bold mb-3">Education & Training</h5>
@@ -336,7 +336,7 @@
 </section>
 
 <!-- Team Section -->
-<section class="py-5">
+<!-- <section class="py-5">
   <div class="container">
     <div class="row justify-content-center mb-5">
       <div class="col-lg-8 text-center js-fadein">
@@ -378,13 +378,13 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!-- CTA Section -->
 <section class="py-5 bg-primary text-white">
   <div class="container text-center py-4">
     <h2 class="mb-4">Ready to Take the Next Step for Your Prostate Health?</h2>
-    <p class="lead mb-5">Schedule a consultation with Dr. Khritij to discuss your diagnostic options</p>
+    <p class="lead mb-5">Schedule a consultation with Dr. Kshitij to discuss your diagnostic options</p>
     <div class="d-flex flex-wrap justify-content-center gap-3">
       <a href="contact.php#appointment" class="btn btn-light btn-lg px-4"><i class="bi bi-calendar-check me-2"></i> Book Appointment</a>
       <a href="tel:+911145678900" class="btn btn-outline-light btn-lg px-4"><i class="bi bi-telephone me-2"></i> Call Now</a>
@@ -399,24 +399,24 @@
       <div class="col-lg-4 mb-4 mb-lg-0">
         <h5 class="text-primary mb-3">EIGEN Prostate Care</h5>
         <p>Delhi's premier center for advanced prostate diagnosis and treatment using cutting-edge MRI fusion biopsy technology.</p>
-        <div class="d-flex gap-3">
+        <!-- <div class="d-flex gap-3">
           <a href="#" class="text-white"><i class="bi bi-facebook fs-5"></i></a>
           <a href="#" class="text-white"><i class="bi bi-twitter fs-5"></i></a>
           <a href="#" class="text-white"><i class="bi bi-linkedin fs-5"></i></a>
           <a href="#" class="text-white"><i class="bi bi-instagram fs-5"></i></a>
-        </div>
+        </div> -->
       </div>
-      <div class="col-lg-2 col-md-4 mb-4 mb-md-0">
+      <div class="col-lg-4 col-md-4 mb-4 mb-md-0">
         <h6 class="text-primary mb-3">Quick Links</h6>
         <ul class="list-unstyled">
           <li class="mb-2"><a href="index.php" class="text-white text-decoration-none">Home</a></li>
           <li class="mb-2"><a href="about.php" class="text-white text-decoration-none">About Us</a></li>
-          <li class="mb-2"><a href="services.php" class="text-white text-decoration-none">Services</a></li>
+          <!-- <li class="mb-2"><a href="services.php" class="text-white text-decoration-none">Services</a></li> -->
           <li class="mb-2"><a href="faq.php" class="text-white text-decoration-none">FAQ</a></li>
           <li class="mb-2"><a href="contact.php" class="text-white text-decoration-none">Contact</a></li>
         </ul>
       </div>
-      <div class="col-lg-3 col-md-4 mb-4 mb-md-0">
+      <!-- <div class="col-lg-3 col-md-4 mb-4 mb-md-0">
         <h6 class="text-primary mb-3">Services</h6>
         <ul class="list-unstyled">
           <li class="mb-2"><a href="#" class="text-white text-decoration-none">MRI Fusion Biopsy</a></li>
@@ -425,8 +425,8 @@
           <li class="mb-2"><a href="#" class="text-white text-decoration-none">Treatment Planning</a></li>
           <li class="mb-2"><a href="#" class="text-white text-decoration-none">Second Opinion</a></li>
         </ul>
-      </div>
-      <div class="col-lg-3 col-md-4">
+      </div> -->
+      <div class="col-lg-4 col-md-4">
         <h6 class="text-primary mb-3">Clinic Hours</h6>
         <ul class="list-unstyled">
           <li class="mb-2">Monday - Friday: 3pm - 7pm</li>

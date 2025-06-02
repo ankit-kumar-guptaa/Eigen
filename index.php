@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <title>Eigen Prostate Care Centre | MRI Fusion Prostate Biopsy Delhi</title>
-  <meta name="description" content="Delhi's leading MRI Fusion Prostate Biopsy centre - safe, precise diagnosis for prostate cancer. Dr Khritij MS DNB Urologist, Sir Ganga Ram Hospital. Book appointment online.">
+  <meta name="description" content="Delhi's leading MRI Fusion Prostate Biopsy centre - safe, precise diagnosis for prostate cancer. Dr Kshitij MS DNB Urologist, Sir Ganga Ram Hospital. Book appointment online.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -220,7 +220,7 @@
       <ul class="navbar-nav ms-auto">
         <li class="nav-item"><a class="nav-link<?=($page=='home' ? ' active' : '')?>" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link<?=($page=='about' ? ' active' : '')?>" href="about.php">About</a></li>
-        <li class="nav-item"><a class="nav-link<?=($page=='services' ? ' active' : '')?>" href="services.php">Services</a></li>
+        <!-- <li class="nav-item"><a class="nav-link<?=($page=='services' ? ' active' : '')?>" href="services.php">Services</a></li> -->
         <li class="nav-item"><a class="nav-link<?=($page=='faq' ? ' active' : '')?>" href="faq.php">FAQ</a></li>
         <li class="nav-item"><a class="nav-link<?=($page=='contact' ? ' active' : '')?>" href="contact.php">Contact</a></li>
       </ul>
@@ -230,8 +230,8 @@
 </nav>
 
 <section class="hero position-relative d-flex align-items-center justify-content-center">
-  <img class="floating-img img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCZY1j6yNNAaEV7oA6qsd_6iiF_MmlpQxmw&s" alt="Doctor">
-  <img class="floating-img img2" src="https://www.ucl.ac.uk/news/sites/news/files/styles/large_image/public/healthy_prostate.png?itok=upB7a0Li" alt="MRI">
+  <!-- <img class="floating-img img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCZY1j6yNNAaEV7oA6qsd_6iiF_MmlpQxmw&s" alt="Doctor"> -->
+  <!-- <img class="floating-img img2" src="https://www.ucl.ac.uk/news/sites/news/files/styles/large_image/public/healthy_prostate.png?itok=upB7a0Li" alt="MRI"> -->
   <div class="container content">
     <div class="row align-items-center">
       <div class="col-lg-6 mb-5 mb-lg-0">
@@ -414,9 +414,9 @@
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6 mb-4 mb-lg-0 js-fadein">
-        <h2 class="section-title mb-4">Meet Dr. Khritij</h2>
+        <h2 class="section-title mb-4">Meet Dr. Kshitij</h2>
         <h5 class="text-primary mb-3">MS DNB Urology (Sir Ganga Ram Hospital)</h5>
-        <p class="mb-4">With over 8 years of specialized experience in urological care, Dr. Khritij brings expertise from one of India's premier medical institutions to provide the highest standard of prostate care.</p>
+        <p class="mb-4">With over 8 years of specialized experience in urological care, Dr. Kshitij brings expertise from one of India's premier medical institutions to provide the highest standard of prostate care.</p>
         
         <div class="mb-4">
           <div class="d-flex mb-2">
@@ -433,12 +433,12 @@
           </div>
         </div>
         
-        <a href="about.php" class="btn btn-outline-primary">Learn More About Dr. Khritij</a>
+        <a href="about.php" class="btn btn-outline-primary">Learn More About Dr. Kshitij</a>
       </div>
       <div class="col-lg-6 js-fadein">
-        <div class="p-4 bg-white rounded-3 shadow">
-          <img src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80" alt="Dr. Khritij" class="img-fluid rounded-2 mb-3">
-          <h5 class="text-center mb-0">Dr. Khritij, MS DNB Urology</h5>
+        <div class="p-4 bg-white rounded-3 ">
+          <img src="https://sgrh.com/assets/img/profile/gab4227.png" alt="Dr. Kshitij" class="img-fluid rounded-2 mb-3">
+          <h5 class="text-center mb-0">Dr. Kshitij, MS DNB Urology</h5>
           <p class="text-center text-muted">Prostate Cancer Specialist</p>
         </div>
       </div>
@@ -463,7 +463,7 @@
             <i class="bi bi-star-fill text-warning me-1"></i>
             <i class="bi bi-star-fill text-warning"></i>
           </div>
-          <p class="mb-4">"After avoiding biopsy for years due to fear, the MRI fusion procedure was surprisingly comfortable. Dr. Khritij's expertise made all the difference."</p>
+          <p class="mb-4">"After avoiding biopsy for years due to fear, the MRI fusion procedure was surprisingly comfortable. Dr. Kshitij's expertise made all the difference."</p>
           <div class="d-flex align-items-center">
             <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Patient" class="rounded-circle me-3" width="50">
             <div>
@@ -531,7 +531,7 @@
             <i class="bi bi-calendar-check fs-1 text-primary"></i>
           </div>
           <h4 class="text-center mb-3">Clinic Visit</h4>
-          <p class="text-center mb-4">In-person consultation at our Greater Kailash facility with Dr. Khritij</p>
+          <p class="text-center mb-4">In-person consultation at our Greater Kailash facility with Dr. Kshitij</p>
           <ul class="list-unstyled mb-4">
             <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Physical examination</li>
             <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> PSA test review</li>
@@ -635,56 +635,7 @@
   </div>
 </section>
 
-<footer class="bg-dark text-white py-4">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-4 mb-4 mb-lg-0">
-        <h5 class="text-primary mb-3">EIGEN Prostate Care</h5>
-        <p>Delhi's premier center for advanced prostate diagnosis and treatment using cutting-edge MRI fusion biopsy technology.</p>
-        <div class="d-flex gap-3">
-          <a href="#" class="text-white"><i class="bi bi-facebook fs-5"></i></a>
-          <a href="#" class="text-white"><i class="bi bi-twitter fs-5"></i></a>
-          <a href="#" class="text-white"><i class="bi bi-linkedin fs-5"></i></a>
-          <a href="#" class="text-white"><i class="bi bi-instagram fs-5"></i></a>
-        </div>
-      </div>
-      <div class="col-lg-2 col-md-4 mb-4 mb-md-0">
-        <h6 class="text-primary mb-3">Quick Links</h6>
-        <ul class="list-unstyled">
-          <li class="mb-2"><a href="index.php" class="text-white text-decoration-none">Home</a></li>
-          <li class="mb-2"><a href="about.php" class="text-white text-decoration-none">About Us</a></li>
-          <li class="mb-2"><a href="services.php" class="text-white text-decoration-none">Services</a></li>
-          <li class="mb-2"><a href="faq.php" class="text-white text-decoration-none">FAQ</a></li>
-          <li class="mb-2"><a href="contact.php" class="text-white text-decoration-none">Contact</a></li>
-        </ul>
-      </div>
-      <div class="col-lg-3 col-md-4 mb-4 mb-md-0">
-        <h6 class="text-primary mb-3">Services</h6>
-        <ul class="list-unstyled">
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">MRI Fusion Biopsy</a></li>
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">PSA Testing</a></li>
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">Prostate Cancer Screening</a></li>
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">Treatment Planning</a></li>
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">Second Opinion</a></li>
-        </ul>
-      </div>
-      <div class="col-lg-3 col-md-4">
-        <h6 class="text-primary mb-3">Clinic Hours</h6>
-        <ul class="list-unstyled">
-          <li class="mb-2">Monday - Friday: 3pm - 7pm</li>
-          <li class="mb-2">Saturday: 10am - 2pm</li>
-          <li class="mb-2">Sunday: Closed</li>
-          <li class="mb-2">Emergency: 24/7 On Call</li>
-        </ul>
-      </div>
-    </div>
-    <hr class="my-4 bg-secondary">
-    <div class="text-center small">
-      &copy; <?=date('Y')?> Eigen Prostate Care Centre, New Delhi. All Rights Reserved. | <a href="#" class="text-white text-decoration-none">Privacy Policy</a> | <a href="#" class="text-white text-decoration-none">Terms of Service</a>
-    </div>
-  </div>
-</footer>
-
+<?php include "footer.php"?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" />
 <script>

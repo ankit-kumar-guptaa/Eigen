@@ -117,7 +117,7 @@
       <ul class="navbar-nav ms-auto">
         <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
-        <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
+        <!-- <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li> -->
         <li class="nav-item"><a class="nav-link" href="faq.php">FAQ</a></li>
         <li class="nav-item"><a class="nav-link active" href="contact.php">Contact</a></li>
       </ul>
@@ -342,7 +342,7 @@
 </section>
 
 <!-- Footer -->
-<footer class="bg-dark text-white py-4">
+<!-- <footer class="bg-dark text-white py-4">
   <div class="container">
     <div class="row">
       <div class="col-lg-4 mb-4 mb-lg-0">
@@ -390,8 +390,9 @@
       &copy; <?=date('Y')?> Eigen Prostate Care Centre, New Delhi. All Rights Reserved. | <a href="#" class="text-white text-decoration-none">Privacy Policy</a> | <a href="#" class="text-white text-decoration-none">Terms of Service</a>
     </div>
   </div>
-</footer>
+</footer> -->
 
+<?php include "footer.php"?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script>
   // Consistent with index.php scripts
