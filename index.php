@@ -602,7 +602,7 @@
               <textarea class="form-control" name="message" rows="3" placeholder="Any specific concerns?"></textarea>
             </div>
             <input type="hidden" name="source" value="home-bottom">
-            <button class="btn btn-primary w-100" type="submit">Request Appointment</button>
+            <button class="btn btn-primary w-100" type="submit">Request Appointment.</button>
           </form>
         </div>
       </div>
