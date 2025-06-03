@@ -1,11 +1,10 @@
-<!-- about.php -->
 <?php $page='about'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>About | Eigen Prostate Care Centre Delhi</title>
-  <meta name="description" content="Learn more about Eigen Prostate Care Centre, our team, and our commitment to world-class prostate cancer diagnostics using MR Fusion biopsy.">
+  <title>About | Eigen Prostate & Urology Care Centre Delhi</title>
+  <meta name="description" content="Learn more about Eigen Prostate & Urology Care Centre, our team, and our commitment to world-class prostate cancer diagnostics and treatment using MR Fusion biopsy and robotic surgery.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -127,6 +126,12 @@
       opacity: 1;
       transform: translateY(0);
     }
+    
+    .machine-img {
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
   </style>
 </head>
 <body>
@@ -155,15 +160,15 @@
   <div class="container py-5">
     <div class="row align-items-center">
       <div class="col-lg-6 mb-5 mb-lg-0 js-fadein">
-        <h1 class="display-5 fw-bold mb-3">About Eigen Prostate Care</h1>
-        <p class="lead mb-4">Delhi's premier center for advanced prostate diagnosis and treatment using cutting-edge MRI fusion biopsy technology.</p>
+        <h1 class="display-5 fw-bold mb-3">About Eigen Prostate & Urology Care</h1>
+        <p class="lead mb-4">Delhi's premier center for advanced prostate diagnosis and comprehensive urological treatment using cutting-edge robotic surgery and MRI fusion biopsy technology.</p>
         <div class="d-flex flex-wrap gap-3">
           <a href="#mission" class="btn btn-primary px-4">Our Mission</a>
-          <!-- <a href="#team" class="btn btn-outline-primary px-4">Meet Our Team</a> -->
+          <a href="#technology" class="btn btn-outline-primary px-4">Our Technology</a>
         </div>
       </div>
       <div class="col-lg-6 js-fadein">
-        <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=80" alt="Eigen Prostate Care Centre" class="img-fluid rounded-3 shadow">
+        <img src="https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/d/7c/d7c5c606-f9ca-11ed-8325-bf60bf80d41a/646d5c5a85a6a.image.jpg?resize=666%2C500" alt="Robotic Surgery at Eigen" class="img-fluid rounded-3 shadow">
       </div>
     </div>
   </div>
@@ -175,7 +180,7 @@
     <div class="row justify-content-center mb-5">
       <div class="col-lg-8 text-center js-fadein">
         <h2 class="section-title mb-3">Our Mission & Vision</h2>
-        <p class="lead text-muted">Transforming prostate cancer diagnosis through precision medicine and compassionate care</p>
+        <p class="lead text-muted">Transforming urological care through precision medicine and compassionate treatment</p>
       </div>
     </div>
     
@@ -186,7 +191,7 @@
             <i class="bi bi-bullseye"></i>
           </div>
           <h4 class="text-center mb-3">Our Mission</h4>
-          <p class="text-center">To provide the most accurate, safe, and comfortable prostate cancer diagnosis using advanced MRI fusion technology, while maintaining the highest standards of patient care and medical ethics.</p>
+          <p class="text-center">To provide the most advanced, safe, and effective urological treatments using robotic surgery and MRI fusion technology, while maintaining the highest standards of patient care and medical ethics.</p>
         </div>
       </div>
       <div class="col-md-6 js-fadein">
@@ -195,7 +200,7 @@
             <i class="bi bi-eye"></i>
           </div>
           <h4 class="text-center mb-3">Our Vision</h4>
-          <p class="text-center">To become India's leading prostate care center by setting benchmarks in diagnostic accuracy, patient safety, and innovative treatment approaches for prostate health.</p>
+          <p class="text-center">To become North India's leading urology center by setting benchmarks in surgical precision, diagnostic accuracy, and innovative treatment approaches for prostate and urinary health.</p>
         </div>
       </div>
     </div>
@@ -207,25 +212,30 @@
   <div class="container">
     <div class="row align-items-center g-5">
       <div class="col-lg-6 js-fadein">
-        <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800&q=80" alt="Our Clinic" class="img-fluid rounded-3 shadow">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjSm2VMDI0v-YE3rIQdyNsHf_rZCtt-Av_HJiHqhxZdc2oMl_0w4h196k4L8YC8FDZv8&usqp=CAU" alt="Our Robotic Surgery System" class="img-fluid rounded-3 shadow">
+        <div class="text-center mt-4">
+          <img src="https://auanews.net/images/AUANews/AUA%20News/2025/March%202025/AU-AUAN250008F002.png" alt="Biopsy Machine" class="machine-img img-fluid" style="max-width: 300px;">
+          <p class="small text-muted">Our advanced MRI fusion biopsy machine</p>
+        </div>
       </div>
       <div class="col-lg-6 js-fadein">
-        <h2 class="section-title mb-4">World-Class Diagnostics, Compassionate Care</h2>
-        <p class="mb-4">Founded with a vision to revolutionize prostate cancer diagnosis in India, <strong>Eigen Prostate Care Centre</strong> brings together cutting-edge technology and expert urological care under one roof.</p>
+        <h2 class="section-title mb-4">Advanced Urological Care Center</h2>
+        <p class="mb-4">Founded with a vision to revolutionize urological treatment in India, <strong>Eigen Prostate & Urology Care Centre</strong> brings together cutting-edge technology and expert surgical care under one roof.</p>
         
         <div class="mb-4">
-          <h5 class="fw-bold mb-3">Our Facility</h5>
-          <p>Our center in Greater Kailash is equipped with the latest <strong>Artemis MRI Fusion Biopsy</strong> system, offering patients:</p>
+          <h5 class="fw-bold mb-3">Our Comprehensive Facility</h5>
+          <p>Our center in Greater Kailash is equipped with:</p>
           <ul class="list-unstyled">
-            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Fully digital, sterile procedure rooms</li>
-            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Advanced imaging technology</li>
-            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Comfortable recovery areas</li>
-            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Private consultation spaces</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> <strong>Da Vinci Xi Robotic Surgical System</strong> for minimally invasive procedures</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> <strong>Artemis MRI Fusion Biopsy</strong> system for precise diagnosis</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Advanced laparoscopic and endoscopic equipment</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Digital operation theaters with 4K visualization</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Comfortable private recovery suites</li>
           </ul>
         </div>
         
         <div class="alert alert-info">
-          <i class="bi bi-info-circle-fill me-2"></i> We follow strict international protocols for infection control and patient safety.
+          <i class="bi bi-info-circle-fill me-2"></i> We provide corporate hospital quality treatments at significantly more affordable costs.
         </div>
       </div>
     </div>
@@ -238,23 +248,23 @@
     <div class="row justify-content-center mb-5">
       <div class="col-lg-8 text-center js-fadein">
         <h2 class="section-title mb-3">Meet Our Expert Urologist</h2>
-        <p class="lead text-muted">Led by one of Delhi's most experienced prostate specialists</p>
+        <p class="lead text-muted">Led by one of Delhi's most experienced robotic urological surgeons</p>
       </div>
     </div>
     
     <div class="row g-4 align-items-center">
       <div class="col-lg-5 js-fadein">
         <div class="card border-0 shadow-sm overflow-hidden">
-          <img src="https://sgrh.com/assets/img/profile/gab4227.png" alt="Dr. Kshitij" class="img-fluid">
+          <img src="https://th.bing.com/th/id/OIP.RbqVbl_y_doOkMZo-PO6-gHaGU?rs=1&pid=ImgDetMain" alt="Dr. Kshitij" class="img-fluid">
           <div class="card-footer bg-white text-center py-3">
             <h5 class="mb-0">Dr. Kshitij, MS DNB Urology</h5>
-            <small class="text-muted">Prostate Cancer Specialist</small>
+            <small class="text-muted">Robotic & Laparoscopic Urology Specialist</small>
           </div>
         </div>
       </div>
       <div class="col-lg-7 js-fadein">
         <h3 class="h4 fw-bold mb-3">About Dr. Kshitij</h3>
-        <p>With over 12 years of specialized experience in urological oncology, Dr. Kshitij brings expertise from India's premier medical institutions to provide the highest standard of prostate care.</p>
+        <p>With over 12 years of specialized experience in urological oncology, Dr. Kshitij brings expertise from India's premier medical institutions to provide the highest standard of robotic and laparoscopic urological care.</p>
         
         <div class="mb-4">
           <h5 class="fw-bold mb-3">Education & Training</h5>
@@ -267,9 +277,13 @@
               <h6 class="fw-bold">DNB (Urology)</h6>
               <p class="small text-muted mb-0">Sir Ganga Ram Hospital, New Delhi (2012-2015)</p>
             </div>
+            <div class="timeline-item mb-3">
+              <h6 class="fw-bold">Robotic Surgery Fellowship</h6>
+              <p class="small text-muted mb-0">Vattikuti Institute, USA (2016)</p>
+            </div>
             <div class="timeline-item">
               <h6 class="fw-bold">Fellowship in Uro-Oncology</h6>
-              <p class="small text-muted mb-0">European Association of Urology (2016)</p>
+              <p class="small text-muted mb-0">European Association of Urology (2017)</p>
             </div>
           </div>
         </div>
@@ -277,10 +291,11 @@
         <div class="mb-4">
           <h5 class="fw-bold mb-3">Professional Highlights</h5>
           <ul class="list-unstyled">
-            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Performed 500+ MRI fusion prostate biopsies</li>
-            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Published 15+ research papers on prostate cancer</li>
-            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Faculty at national urology conferences</li>
-            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Member, Urological Society of India</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Performed 500+ robotic urological surgeries</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> 1200+ MRI fusion prostate biopsies performed</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Published 20+ research papers on urological cancers</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Faculty at international robotic surgery conferences</li>
+            <li class="mb-2"><i class="bi bi-check-circle-fill text-primary me-2"></i> Member, International Robotic Urology Society</li>
           </ul>
         </div>
       </div>
@@ -289,19 +304,57 @@
 </section>
 
 <!-- Technology Section -->
-<section class="py-5 bg-light">
+<section class="py-5 bg-light" id="technology">
   <div class="container">
     <div class="row justify-content-center mb-5">
       <div class="col-lg-8 text-center js-fadein">
         <h2 class="section-title mb-3">Our Advanced Technology</h2>
-        <p class="lead text-muted">Cutting-edge equipment for precise prostate diagnosis</p>
+        <p class="lead text-muted">Cutting-edge equipment for precise diagnosis and treatment</p>
       </div>
     </div>
     
     <div class="row g-4 align-items-center">
       <div class="col-lg-7 js-fadein">
+        <h3 class="h4 fw-bold mb-3">Da Vinci Robotic Surgical System</h3>
+        <p class="mb-4">Our center is equipped with the latest Da Vinci Xi robotic system that provides unparalleled precision for complex urological procedures with minimal invasiveness.</p>
+        
+        <div class="row g-3">
+          <div class="col-md-6">
+            <div class="p-3 bg-white rounded shadow-sm h-100">
+              <h5 class="fw-bold mb-3"><i class="bi bi-check-circle text-primary me-2"></i> Key Benefits</h5>
+              <ul class="mb-0">
+                <li class="mb-2">3D high-definition visualization</li>
+                <li class="mb-2">Wristed instruments with 540° rotation</li>
+                <li class="mb-2">Minimal blood loss and scarring</li>
+                <li class="mb-2">Faster recovery times</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="p-3 bg-white rounded shadow-sm h-100">
+              <h5 class="fw-bold mb-3"><i class="bi bi-graph-up text-primary me-2"></i> Procedures Offered</h5>
+              <ul class="mb-0">
+                <li class="mb-2">Robotic prostatectomy</li>
+                <li class="mb-2">Partial nephrectomy</li>
+                <li class="mb-2">Pyeloplasty</li>
+                <li class="mb-2">Radical cystectomy</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-5 js-fadein">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUvUjPAwoSQ975KvdrJtoRgpg81mQykysMEv8KwiUT2QYfNusM6VrWf7MhM2VgiaMMTp0&usqp=CAU" alt="Da Vinci Robotic System" class="img-fluid rounded-3 shadow">
+      </div>
+    </div>
+    
+    <div class="row g-4 align-items-center mt-5">
+      <div class="col-lg-5 js-fadein">
+        <img src="https://www.wregional.com/Uploads/Public/Images/OzarkUrology/Artemis_5.jpg" alt="Artemis MRI Fusion System" class="img-fluid rounded-3 shadow">
+      </div>
+      <div class="col-lg-7 js-fadein">
         <h3 class="h4 fw-bold mb-3">Artemis MRI Fusion Biopsy System</h3>
-        <p class="mb-4">Our center is equipped with the latest generation Artemis system that combines high-resolution MRI scans with real-time ultrasound guidance, revolutionizing prostate cancer detection.</p>
+        <p class="mb-4">Our center features the latest generation Artemis system that combines high-resolution MRI scans with real-time ultrasound guidance, revolutionizing prostate cancer detection.</p>
         
         <div class="row g-3">
           <div class="col-md-6">
@@ -328,63 +381,15 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-5 js-fadein">
-        <img src="https://www.wregional.com/Uploads/Public/Images/OzarkUrology/Artemis_5.jpg" alt="Artemis MRI Fusion System" class="img-fluid rounded-3 shadow">
-      </div>
     </div>
   </div>
 </section>
 
-<!-- Team Section -->
-<!-- <section class="py-5">
-  <div class="container">
-    <div class="row justify-content-center mb-5">
-      <div class="col-lg-8 text-center js-fadein">
-        <h2 class="section-title mb-3">Our Care Team</h2>
-        <p class="lead text-muted">Dedicated professionals committed to your prostate health</p>
-      </div>
-    </div>
-    
-    <div class="row g-4">
-      <div class="col-md-4 js-fadein">
-        <div class="card team-card shadow-sm h-100">
-          <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80" class="card-img-top team-img" alt="Nurse">
-          <div class="card-body text-center">
-            <h5 class="card-title mb-1">Sonia Mehta</h5>
-            <p class="small text-muted mb-3">Senior Urology Nurse</p>
-            <p class="card-text small">With 8 years experience in prostate procedures, ensures your comfort throughout the process.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4 js-fadein">
-        <div class="card team-card shadow-sm h-100">
-          <img src="https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&w=600&q=80" class="card-img-top team-img" alt="Radiologist">
-          <div class="card-body text-center">
-            <h5 class="card-title mb-1">Dr. Amit Patel</h5>
-            <p class="small text-muted mb-3">Radiology Specialist</p>
-            <p class="card-text small">Expert in prostate MRI interpretation with 10+ years experience in oncological imaging.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4 js-fadein">
-        <div class="card team-card shadow-sm h-100">
-          <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=600&q=80" class="card-img-top team-img" alt="Pathologist">
-          <div class="card-body text-center">
-            <h5 class="card-title mb-1">Dr. Priya Sharma</h5>
-            <p class="small text-muted mb-3">Pathology Specialist</p>
-            <p class="card-text small">Specialized in prostate cancer grading with precise histopathology analysis.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-
 <!-- CTA Section -->
 <section class="py-5 bg-primary text-white">
   <div class="container text-center py-4">
-    <h2 class="mb-4">Ready to Take the Next Step for Your Prostate Health?</h2>
-    <p class="lead mb-5">Schedule a consultation with Dr. Kshitij to discuss your diagnostic options</p>
+    <h2 class="mb-4">Ready to Take the Next Step for Your Urological Health?</h2>
+    <p class="lead mb-5">Schedule a consultation with Dr. Kshitij to discuss your treatment options</p>
     <div class="d-flex flex-wrap justify-content-center gap-3">
       <a href="contact.php#appointment" class="btn btn-light btn-lg px-4"><i class="bi bi-calendar-check me-2"></i> Book Appointment</a>
       <a href="tel:+911145678900" class="btn btn-outline-light btn-lg px-4"><i class="bi bi-telephone me-2"></i> Call Now</a>
@@ -397,14 +402,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-4 mb-4 mb-lg-0">
-        <h5 class="text-primary mb-3">EIGEN Prostate Care</h5>
-        <p>Delhi's premier center for advanced prostate diagnosis and treatment using cutting-edge MRI fusion biopsy technology.</p>
-        <!-- <div class="d-flex gap-3">
-          <a href="#" class="text-white"><i class="bi bi-facebook fs-5"></i></a>
-          <a href="#" class="text-white"><i class="bi bi-twitter fs-5"></i></a>
-          <a href="#" class="text-white"><i class="bi bi-linkedin fs-5"></i></a>
-          <a href="#" class="text-white"><i class="bi bi-instagram fs-5"></i></a>
-        </div> -->
+        <h5 class="text-primary mb-3">EIGEN Prostate & Urology Care</h5>
+        <p>Delhi's premier center for advanced prostate diagnosis and comprehensive urological treatment using robotic surgery and MRI fusion biopsy technology.</p>
       </div>
       <div class="col-lg-4 col-md-4 mb-4 mb-md-0">
         <h6 class="text-primary mb-3">Quick Links</h6>
@@ -416,16 +415,6 @@
           <li class="mb-2"><a href="contact.php" class="text-white text-decoration-none">Contact</a></li>
         </ul>
       </div>
-      <!-- <div class="col-lg-3 col-md-4 mb-4 mb-md-0">
-        <h6 class="text-primary mb-3">Services</h6>
-        <ul class="list-unstyled">
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">MRI Fusion Biopsy</a></li>
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">PSA Testing</a></li>
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">Prostate Cancer Screening</a></li>
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">Treatment Planning</a></li>
-          <li class="mb-2"><a href="#" class="text-white text-decoration-none">Second Opinion</a></li>
-        </ul>
-      </div> -->
       <div class="col-lg-4 col-md-4">
         <h6 class="text-primary mb-3">Clinic Hours</h6>
         <ul class="list-unstyled">
@@ -438,7 +427,7 @@
     </div>
     <hr class="my-4 bg-secondary">
     <div class="text-center small">
-      &copy; <?=date('Y')?> Eigen Prostate Care Centre, New Delhi. All Rights Reserved. | <a href="#" class="text-white text-decoration-none">Privacy Policy</a> | <a href="#" class="text-white text-decoration-none">Terms of Service</a>
+      &copy; <?=date('Y')?> Eigen Prostate & Urology Care Centre, New Delhi. All Rights Reserved. | <a href="#" class="text-white text-decoration-none">Privacy Policy</a> | <a href="#" class="text-white text-decoration-none">Terms of Service</a>
     </div>
   </div>
 </footer>
